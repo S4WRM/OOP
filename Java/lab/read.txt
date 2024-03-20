@@ -6,3 +6,7 @@ METODOS:
 
 
 final sirve para no modificar 
+
+constructor 
+debe tener el mismo nombre de la clase 
+clase dentro de otra se le llama composicion 
