@@ -11,6 +11,8 @@ constructor inicializador de variables
 debe tener el mismo nombre de la clase 
 clase dentro de otra se le llama composicion 
 
-addStakeHolder
-        calculateFunds()
-                removeStakeHolder
+agregra estos metodos :
+     addStakeHolder
+     calculateFunds()  --setfunds
+     removeStakeHolder()
+     viewStakeHolder()
