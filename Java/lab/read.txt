@@ -1,0 +1,8 @@
+METODOS:
+
+-instancia le pertenece a la instancia y cada instancia tiene un valor diferente
+-Clase: le pertenece a la clase, es el mismo para todas las instancias =Static
+
+
+
+final sirve para no modificar 
